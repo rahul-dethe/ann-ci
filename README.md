@@ -1,4 +1,4 @@
-Please gitclone https://github.com/rahul-dethe/ann_software.git
+To download the contents of the repository - gitclone https://github.com/rahul-dethe/ann_software.git
 
 1) To set-up the enviroment Open "Parallel ANN-CI Installation Guide.pdf" and follow the steps.
 2) 
